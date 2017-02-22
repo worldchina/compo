@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-0": {
-            "xiang\\Zebra\\jun": "src/"
+            "xiang\\jun": "src/"
         }
     }
 }
