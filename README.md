@@ -1,2 +1,0 @@
-# compo
-composer2
