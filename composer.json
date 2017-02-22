@@ -6,7 +6,7 @@
 	"minimum-stability":"dev",  
     	"require":{},  
     	"autoload": {
-        	"psr-4": {"Rbac\\": "src/"}
+        	"psr-4": {"rbac\\": "src/"}
     	}
 
 } 
