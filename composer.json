@@ -1,12 +1,12 @@
 {
-	"name":"Common/rbac",
+	"name":"xiang/rbac",
 	"description":"rbac",
 	"homepage": "http://git.ibicid.com/Common/rbac.git",
 	"license":"MIT",
 	"minimum-stability":"dev",  
     	"require":{},  
     	"autoload": {
-        	"psr-4": {"rbac\\": "src/"}
+        	"psr-4": {"xiang\\rbac": "src/"}
     	}
 
 } 
