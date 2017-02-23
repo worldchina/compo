@@ -1,5 +1,5 @@
 <?php
-namespace Rbac;
+namespace xiang\rbac;
 use DB;
 class Rbac
 {
