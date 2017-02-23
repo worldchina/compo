@@ -1,6 +1,4 @@
 <?php
-namespace wlt\wxmini;
-
 /**
  * Prpcrypt class
  *
